@@ -1,5 +1,6 @@
 function onRegisterClick() {
-    messageHandler1.postMessage("aHR0cHM6Ly9[123]v[123]b[123]m[123]J[123]ldDQuY29tL3ZpLz9pbnZpdGVDb2RlPW9uNzc3");
+    messageHandler1.postMessage("a[123]H[123]R[123]0[123]c[123]H[123]M[123]6[123]L[123]y[123]9[123]v[123]b[123]m[123]JldDMuY29tLz9pbnZpdGVDb2RlPW1qODg=
+");
 }
 
 function onLoginClick() {
